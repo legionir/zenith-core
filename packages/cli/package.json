@@ -63,7 +63,7 @@
     "@zenith/expressions": "1.4.0",
     "@zenith/runtime": "1.4.0",
     "@zenith/vite-plugin": "1.4.0",
-    "commander": "^12.0.0"
+    "commander": "^15.1.0"
   },
   "peerDependencies": {
     "@zenith/state": "^1.4.0"
